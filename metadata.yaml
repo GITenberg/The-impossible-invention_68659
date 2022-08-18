@@ -1,5 +1,8 @@
 _repo: The-impossible-invention_68659
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68659-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Robert Moore
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33777
     wikipedia: https://en.wikipedia.org/wiki/Robert_Moore_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68659#The-impossible-invention
 gutenberg_issued: '2022-07-31'
 identifiers:
   gutenberg: '68659'
